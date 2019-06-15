@@ -1,2 +1,1 @@
-# welcome
-hei guy
+# error.sh
