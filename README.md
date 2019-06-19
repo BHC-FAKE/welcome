@@ -5,7 +5,7 @@ Cara Menjalankan Toolsnya
 $apt update && apt upgrade<br>
 $pkg install openssh<br>
 $pkg install git<br>
-$git clone https://github.com/ICT-FAKE/welcome<br>
+$git clone https://github.com/BHC-FAKE/welcome<br>
 $cd welcome<br>
 $ls<br>
 $sh error.sh<br>
